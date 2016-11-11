@@ -1,0 +1,34 @@
+class Oracion:
+	def __init__(self):
+		self.Tipos={"o1":"Interrogativa",
+			   "o2":"Declarativa",
+			   "o3":"Exclamativa",
+			   "o4":"Imperativa",
+			   "o5":"Dubitativa",
+			   "o6":"Desiderativa",
+			   "o7":"Simple",
+			   "o8":"Compuesta",
+			   "o9":"Unimembre",
+			   "o10":"Bimembre"}
+
+		self.partes={"p1":"Articulo",
+			     "p2":"Sustantivo",
+			     "p3":"Adjetivo",
+			     "p4":"Pronombre",
+			     "p5":"Verbo",
+			     "p6":"Adverbio",
+			     "p7":"Preposición",
+			     "p8":"Conjunción",
+			     "p9":"Interjección"}
+
+		self.sintagmas={"s1":"Nominal",
+				"s2":"Verbal",
+				"s3":"Adjetival",
+				"s4":"Adverbial",
+				"s5":"Proposicional",
+				"s6":"Funcional"
+				}
+
+
+
+

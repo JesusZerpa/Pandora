@@ -1,0 +1,2 @@
+db={'<CONSULTAS>': {}, 'Diccionario': {'<CAMPOS>': [['Palabra', [<type 'str'>, 100]], ['Significado', [<type 'str'>, 100]]]}, '<RELACIONES>': {}}
+registro={'fechas': {'10:30 PM Oct 04 2015': 0}, 'orden': {0: "self.crear_campos(Diccionario,'['Palabra', [<type 'str'>, 100]]','['Significado', [<type 'str'>, 100]]')"}}
